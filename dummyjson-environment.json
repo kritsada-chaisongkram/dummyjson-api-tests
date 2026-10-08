@@ -1,0 +1,23 @@
+{
+	"id": "f432ccac-675a-4d05-82dc-bfef87ee17cb",
+	"name": "DummyJSON QA",
+	"values": [
+		{
+			"key": "accessToken",
+			"value": "",
+			"type": "default",
+			"enabled": true,
+			"secret": true
+		},
+		{
+			"key": "baseUrl",
+			"value": "https://dummyjson.com",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-10-08T08:50:15.381Z",
+	"_postman_exported_using": "Postman/12.31.3"
+}
